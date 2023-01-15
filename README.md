@@ -2,7 +2,7 @@
 Solution by Team ChickenBurrito for Daisy Intelligence 2023 Hackathon
 
 ## Dataset
-Online Retail II dataset from UCI. Here is the [dataset description](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II).
+Online Retail II (ORII) dataset from UCI. Here is the [dataset description](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II).
 
 The dataset was collected over 2 years, and consists of invoice records, products, and customer IDs.
 

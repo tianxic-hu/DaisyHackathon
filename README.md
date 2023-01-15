@@ -12,4 +12,7 @@ The script `data_process.py` can be modified to suit other datasets.
 [Supermarket Sales](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) dataset from Kaggle which includes historical sales data of supermarket company recorded in 3 different branches for 3 months is also used to demostrate ARIMA forecasting. 
 
 ## Running Environment
+Running environment for flyer generation is specified in `requirements.txt`. All other script can be run in Google Colab python environment.
 
+## Running Instruction
+Steps and example of outputs are shown in each `*.ipynb` files for different functions. Individual cells can be run for needed outputs.
